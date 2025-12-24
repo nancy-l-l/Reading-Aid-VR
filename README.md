@@ -1,5 +1,9 @@
 # Reading-Aid-VR
-[![Open PDF](/assets/573aaaea-4a2d-4d75-9f8a-12f8c4c3e40b)](./VR-Reading Aid.pdf)
+## VR Reading Aid (Paper)
+
+[![VR Reading Aid (PDF)](assets/VR-Reading-Aid-preview.png)](VR-Reading%20Aid.pdf)
+
+> Click the preview to open the full PDF.
 
 Watch the demo on YouTube here:
 https://www.youtube.com/watch?v=62JOteUKg50
